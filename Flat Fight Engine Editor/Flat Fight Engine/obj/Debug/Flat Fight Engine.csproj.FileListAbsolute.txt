@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\Alexander Z\Flat Fight Engine\Flat Fight Engine\bin\Debug\Flat Fight Engine.exe.config
+C:\Users\student\Desktop\Alexander Z\Flat Fight Engine\Flat Fight Engine\bin\Debug\Flat Fight Engine.exe
+C:\Users\student\Desktop\Alexander Z\Flat Fight Engine\Flat Fight Engine\bin\Debug\Flat Fight Engine.pdb
+C:\Users\student\Desktop\Alexander Z\Flat Fight Engine\Flat Fight Engine\obj\Debug\Flat Fight Engine.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Alexander Z\Flat Fight Engine\Flat Fight Engine\obj\Debug\Flat_Fight_Engine.Form1.resources
+C:\Users\student\Desktop\Alexander Z\Flat Fight Engine\Flat Fight Engine\obj\Debug\Flat_Fight_Engine.Properties.Resources.resources
+C:\Users\student\Desktop\Alexander Z\Flat Fight Engine\Flat Fight Engine\obj\Debug\Flat Fight Engine.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Alexander Z\Flat Fight Engine\Flat Fight Engine\obj\Debug\Flat Fight Engine.exe
+C:\Users\student\Desktop\Alexander Z\Flat Fight Engine\Flat Fight Engine\obj\Debug\Flat Fight Engine.pdb
